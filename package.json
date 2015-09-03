@@ -1,18 +1,18 @@
 {
-  "name": "node-sass",
-  "version": "3.3.2",
+  "name": "nd-node-sass",
+  "version": "1.0.1",
   "libsass": "3.2.5",
-  "description": "Wrapper around libsass",
-  "license": "MIT",
+  "description": "Modified version of NODE-SASS to contain binaries.",
+  "license": "ISC",
   "homepage": "https://github.com/sass/node-sass",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sass/node-sass"
+    "url": "https://github.com/maclun/node-sass"
   },
   "author": {
-    "name": "Andrew Nesbitt",
-    "email": "andrewnez@gmail.com",
-    "url": "http://andrew.github.com"
+    "name": "Maciej Luniewski",
+    "email": "maclun@gmail.com",
+    "url": "https://github.com/maclun"
   },
   "engines": {
     "node": ">=0.10.0"
